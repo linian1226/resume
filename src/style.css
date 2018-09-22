@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  /* 让 wrapper 里的元素 flex 布局 */
+  #app {
+    min-width: 1100px;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+  }
+  #options #code_body {
+    height: 100%;
+  }
+  
+  .token.comment, .token.punctuation, .token.property, .token.selector {
+    color: black;
+  }
+  
+  .code{
+      display: none;
+  }
+  @keyframes breathe
+  {
+    0% { box-shadow: 0 0 1px 0px #CFD8DC; }
+    50% { box-shadow: 0 0 10px 4px #CFD8DC; }
+    100% { box-shadow: 0 0 1px 0px #CFD8DC; }
+  }
