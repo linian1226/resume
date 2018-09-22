@@ -135,7 +135,7 @@ ul>li{
 `  ],
       currentMarkdown:'',
       fullMarkdown:`# 李念
-- 13163387909 | 3038055649@qq.com | 武汉
+- 131xxxxxxx | 303xxxxx@qq.com | 武汉
 - Github: https://github.com/linian
  前端开发工程师
 
