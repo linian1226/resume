@@ -4,7 +4,6 @@
   "description": "A Vue.js project",
   "author": "linian1226 <3038055649@qq.com>",
   "private": true,
-  "homepage":"https://linian1226.github.io/resume/dist",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",

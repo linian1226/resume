@@ -156,19 +156,19 @@ ul>li{
     - 理解 MVC 、 MVVM 思想，掌握 HTTP 基础等
     - 能够使用Canvas的部分API进行画图，并用Canvas做了《Canvas画板》，并在画板中添加了笔头粗细选择、橡皮檫、撤回、清空、下载和颜色选择等功能。
     - 了解命令行，能够使用命令行进行常用的操作。了解git，能够使用git的命令行进行代码版本的管理，并写了相应博客。
-    
+
 ## 项目经验
 
 ### Vue重构有赞商城
 - 关键词：\`Vue\`、\`Vue-cli\`、\`Vue-Router\`、\`Vuex\`、\`Velocityjs\`、\`mint-ui\`、\`qs\`
 - 源码链接：https://github.com/linian1226/youzan
-- 预览链接：https://gigi1226.top/dist/index.html
+- 预览链接：https://gigi1226.top/dist/index.html (只能http点开)
 - 描述：该项目利用Vue框架重构了有赞商城，对商城的首页、目录分类页、商品搜索列表页、商品详情页、购物车页面以及个人中心地址管理页面进行了重构，在重构过程中个，Vue作为项目的基础框架，利用mint-ui实现了商品列表的下拉请求和加载，利用Velocity实现了一些简单的页面动画效果，利用swiper实现了轮播，利用qs库实现了对url查询参数的解析，利用Vue-Router实现了对地址管理页面的组件路由的管理和切换，利用Vuex实现了对地址管理页面的数据状态的管理和组件间数据的通讯。
 
 ### 简历生成器
 - 关键词：\`Vue\`、\`async\`、\`Promise\`、\`Markdown\`
-- 源码链接：
-- 预览链接：
+- 源码链接：https://github.com/linian1226/resume
+- 预览链接：https://linian1226.github.io/resume/
 - 描述：该项目实现了一个 Markdown 简历的制作过程，应用vue框架和使用 Promise 处理异步操作，利用 async函数+await。该项目通过动态向\`style\`标签和\`pre\`标签添加文本，使用prism.js实现代码高亮，用marked.js将markdown文件转为HTML
 
 ### 简易画板
