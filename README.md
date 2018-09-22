@@ -1,4 +1,4 @@
-# resume-b-resume
+# resume
 
 > A Vue.js project
 

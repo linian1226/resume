@@ -168,7 +168,7 @@ ul>li{
 ### 简历生成器
 - 关键词：\`Vue\`、\`async\`、\`Promise\`、\`Markdown\`
 - 源码链接：https://github.com/linian1226/resume
-- 预览链接：https://linian1226.github.io/resume/
+- 预览链接：https://linian1226.github.io/resume/dist/index.html
 - 描述：该项目实现了一个 Markdown 简历的制作过程，应用vue框架和使用 Promise 处理异步操作，利用 async函数+await。该项目通过动态向\`style\`标签和\`pre\`标签添加文本，使用prism.js实现代码高亮，用marked.js将markdown文件转为HTML
 
 ### 简易画板
